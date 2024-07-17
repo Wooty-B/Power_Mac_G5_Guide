@@ -1,4 +1,4 @@
-## Installing Fienix OS for PPC
+## Installing Fienix OS
 
 ### Preface
 
