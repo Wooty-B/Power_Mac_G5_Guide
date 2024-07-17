@@ -203,7 +203,7 @@ Before you continue further, if you are reading this documentation in order to r
 
 [Installing Sorbet Leopard 10.5.8](Install-Sorbet.md)
 
-[Installing Fienix OS for PPC64](Install-Fienix.md)
+[Installing Fienix OS](Install-Fienix.md)
 
 [Installing Debian Sid for PPC64](Install-Sid.md)
 
