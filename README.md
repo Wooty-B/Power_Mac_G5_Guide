@@ -249,14 +249,6 @@ Before you continue further, if you are reading this documentation in order to r
   4. Schematics or information on how all of this logic flows and talks to eachother.
   5. A power supply able to handle increased currents; PSU north of 1400W minimum for a G5 Quad.
   6. A way to cool the machine better and faster on its already strained thermals.
-    
-  32GB of RAM on PowerPC 970MP:
-
-  This is an unconfirmed one, but something I have found a bit of information on and deem plausible. Theres a few pictures floating around online of people who have successfully upgraded their PCIe based G5's to 32GB of RAM using 4GB PC2-4200 DDR2 sticks, which do exist but are extremely rare. You can sometimes find 4GB PC2-6400U modules, as I have 4 sticks, but have been unable to get this to work on my machine. These sticks are so rare I am still not sure whether the sticks I have are counterfet or not, which makes this an even harder upgrade to achieve.
-
-  Other than spotty information online, Yellow Dog of Japan which is another PowerPC company, had some workstations running dual PowerPC 970MP CPU's with similar I/O and a 32GB DDR2 RAM limit. This could be due to not having Apple directly involved, allowing more configurability for the PowerPC 970MP. Several Apple laptops have also been known to be able to exceed Apple max specs, such as the pre-unibody MacBooks, meaning there may not be a hard-coded limit and just a self-test that checks for certain memory specifications to be met
-    
-  That being said, I am curious as to if anyone is currently running 4GB DDR2 modules in their G5.
 
 <a name="credits"/>
 
