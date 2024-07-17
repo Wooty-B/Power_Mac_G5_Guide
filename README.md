@@ -229,17 +229,17 @@ Before you continue further, if you are reading this documentation in order to r
 
   This area is for issues that don't fit into the categories above, or may be less encountered.
 
-  Bent CPU Pins:
+  <b>Bent CPU Pins:</b>
 
   If you have a bent mezzaine pin on the Logic Board or CPU carrier board, it's not the end of the world! I noticed disassembling my unit I had a shorted pin across the connector on the Logic Board, pictured above. After using a cheap handheld microscope I was able to see how the pin needed to be set back into place. Using some Electro-Static Safe tweezers, I was able to nudge the bent pin close enough into the original position. Please note great care is needed when bending one of these mezzaine pins back into place, as too much force could damage that or other surrounding pins which may render the repair more costly/time consuming than worth it.
 
-  CPU Replacement/Upgrade:
+  <b>CPU Replacement/Upgrade:</b>
 
   Even thought the CPU carrier connector may be compatible with your motherboards revision, the CPU will generally not be swappable into most other machines if they came with a different CPU configuration. Unlike many x86 motherboards at the time, the Front Side Bus (FSB) is locked to half of what the CPU is running at; the Late 2004 "PowerMac9,1" FSB is clocked to 1/3rd the CPU speed. The machines are also configured to throw an error if one of the CPU's aren't detected, expecting a major issue requiring Apple technicians to repair.
 
   That said, it's not generally possible to either remove a single CPU from a dual-CPU configured system, nor change to a CPU of a different clock frequency. If you have a bad CPU however, you can swap it in for a like model CPU are they are not serially tied to the Logic Board.
 
-  CPU Overclocking:
+  <b>CPU Overclocking:</b>
 
   Nope. Not possible. Only false claims of this for internet fame/infamy. Partly due to what I mentioned about the FSB above, these boards are configured for the exact processor and speeds in which they were designed for. Overclocking the CPU would require several things which have yet come to fruition:
 
